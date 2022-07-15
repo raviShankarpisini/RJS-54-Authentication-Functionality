@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  padding: 0px;
+}
+li {
+  margin-left: 10px;
+}
